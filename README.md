@@ -9,4 +9,4 @@ python3 arp-spoofer.py --help
 **How To Use script**
 
 
-python3 arp-spoofer.py -t target-IP -g Gatway-IP
+python3 arp-spoofer.py -t Target-IP -g Gatway-IP
